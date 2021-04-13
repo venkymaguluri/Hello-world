@@ -9,3 +9,6 @@ I learning react now.
 I like front end javascript library i.e., react
 
 Thanks for your view
+
+
+for back end django frmawork is good, and for db postgres is the best choice.
